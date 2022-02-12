@@ -122,3 +122,19 @@ ls -la
 touch file4
 vim file4
 cat file4
+ll
+ls
+la -ls
+ls -al
+git add .
+git commit -m "all" .
+git logg
+git log
+git lo
+git log
+ll
+ls
+ls -la
+git status
+git log
+git status
