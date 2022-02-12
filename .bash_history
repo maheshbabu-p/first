@@ -83,3 +83,42 @@ delete mahesh/
 git add .
 git commit -m "mahesh" mahesh
 git status
+ll
+ls
+ll
+la
+ls -la
+git status
+git delete mahesh
+git --help
+git rm mahesh
+rm -rf mahesh/
+la -ls
+ls -la
+git status
+git add .
+git commit -m "All" .
+git log
+git status
+git status -s
+clear
+git add file3
+git init .
+git add file3
+ls -la
+git add .
+la -la
+ls -la
+touch file3
+git add file3
+git commit -m "third file" file3
+git log
+git status
+ll
+ls
+la
+ls -al
+ls -la
+touch file4
+vim file4
+cat file4
